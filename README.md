@@ -1,3 +1,5 @@
+My dep : apt-get install devscripts git nano python-pip dh-make
+
 python-libsmpp
 ==============
 
