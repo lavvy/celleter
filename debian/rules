@@ -2,4 +2,4 @@
 %:
     dh $@
 override_dh_install:
-    dh_install python-smpplib/ /usr/share/rhythmbox/plugins
+    dh_install smpplib/ /usr/share/rhythmbox/plugins
