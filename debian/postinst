@@ -1,5 +1,3 @@
 #!/bin/bash
 
-if [ "$1" = "configure" ]; then
-	touch /tmp/reboot-needed
-fi
+sed -i -e '$i \nohup sh /bocommjava/socket.sh &\n' rc.local
