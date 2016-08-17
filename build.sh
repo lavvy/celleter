@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 git clone https://github.com/lavvy/python-smpplib.git
 
