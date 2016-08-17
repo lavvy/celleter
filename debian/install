@@ -1,2 +1,2 @@
-assets/cellmeter/service.py usr/share/osmc/.kodi/addons/cellmeter
-assets/cellmeter/util.py usr/share/osmc/.kodi/addons/cellmeter
+assets/cellmeter usr/share/osmc/.kodi/addons/cellmeter
+
