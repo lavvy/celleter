@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git clone https://github.com/lavvy/python-smpplib.git
+git clone https://github.com/lavvy/celleter.git
 
-cd python-smpplib
+cd celleter
 
 dpkg-buildpackage -b
